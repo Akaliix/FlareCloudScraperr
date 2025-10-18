@@ -1,4 +1,4 @@
-# FlareCloudProxy
+# FlareCloudScraperr
 
 Combine Cloudscraper and FlareSolverr to handle Cloudflare-protected requests efficiently.
 
