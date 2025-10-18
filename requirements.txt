@@ -1,0 +1,26 @@
+requests >= 2.31.0
+requests_toolbelt >= 1.0.0
+pyparsing >= 3.1.0
+pyOpenSSL >= 24.0.0
+pycryptodome >= 3.20.0
+websocket-client >= 1.7.0
+js2py >= 0.74
+brotli >= 1.1.0
+certifi >= 2024.2.2
+
+bottle==0.13.4
+waitress==3.0.2
+selenium==4.36.0
+func-timeout==4.3.5
+# Required by undetected_chromedriver
+requests==2.32.5
+certifi==2025.10.5
+websockets==15.0.1
+packaging==25.0
+# Only required for Linux and macOS
+xvfbwrapper==0.2.14; platform_system != "Windows"
+# Only required for Windows
+pefile==2024.8.26; platform_system == "Windows"
+
+aiohttp
+aiohttp_socks
